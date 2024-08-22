@@ -4,7 +4,7 @@
 
 <h2> Hello there, I'm Akanksha Sawant <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="25px"></h2>
 
-[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/akanksha-sawant-29260226a) [![Mail](https://img.shields.io/badge/Mail-555555?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akankshasawant2912@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akankshaanilsawant)
+[ ![LinkedIn](https://img.shields.io/badge/LinkedIn-4682B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akanksha-sawant-29260226a/) [![Mail](https://img.shields.io/badge/Mail-555555?style=for-the-badge&logo=mail.ru&logoColor=white)](mailto:akankshasawant2912@gmail.com) [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/akankshaanilsawant)
 
 ![logo](https://miro.medium.com/v2/resize:fit:679/1*E6hq6ugrn79zjUU0fcwI6w.gif)
 
