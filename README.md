@@ -11,10 +11,9 @@
 ## 💫 About Me: Data Science Enthusiast!
 🚀 As a passionate Data Science enthusiast, I thrive on exploring the intricacies of machine learning, deep learning, and data analysis. Driven by an unquenchable curiosity and equipped with skills honed through both academic study and practical projects, I find great satisfaction in uncovering insights from complex datasets, turning challenges into opportunities for discovery.
 
-🌟Driven by a deep commitment to innovation and a love for problem-solving, I'm dedicated to staying at the forefront of technological advancements in data science. Energized by the thrill of discovery and a relentless pursuit of excellence, I'm ready to craft meaningful narratives in the dynamic and ever-evolving world of data science.
-
-
 <img align="right" alt="coding" width="300" src="https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+
+🌟Driven by a deep commitment to innovation and a love for problem-solving, I'm dedicated to staying at the forefront of technological advancements in data science. Energized by the thrill of discovery and a relentless pursuit of excellence, I'm ready to craft meaningful narratives in the dynamic and ever-evolving world of data science.
 
 📜 The objective is to transform data into meaningful information and information into actionable insights<br><br>
 
